@@ -51,7 +51,7 @@
 /* Body */
 body {
     font-family: var(--mainFont);
-    background: #000000 url('https://imgur.com/a/PKaNW09') fixed;
+    background: #000000 url('https://imgur.com/PKaNW09') fixed;
     background-position-y: bottom;
     background-position-x: center;
     /* DON'T CHANGE BELOW */
