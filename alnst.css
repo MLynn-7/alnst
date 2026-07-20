@@ -51,7 +51,7 @@
 /* Body */
 body {
     font-family: var(--mainFont);
-    background: #000000 url('https://cdn.discordapp.com/attachments/1205336077657841687/1528583828246106162/BE54D0AE-D1DA-40E3-9C9A-B74B694A4C43.jpg?ex=6a5ed420&is=6a5d82a0&hm=ae6b5695c6e4d93c272ff72228d524da45bb7cbae42a3c163648d343e94633a9&') fixed;
+    background: #000000 url('https://cdn.discordapp.com/attachments/1205336077657841687/1528583828246106162/BE54D0AE-D1DA-40E3-9C9A-B74B694A4C43.jpg') fixed;
     background-position-y: bottom;
     background-position-x: center;
     /* DON'T CHANGE BELOW */
